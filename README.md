@@ -3,15 +3,15 @@
 Este repositorio contiene los materiales del taller presentado en la [RIIAA 2019](https://riiaa.org).
 
 * Aprendizaje monotarea.
-  * Aprendizaje supervisado
-  * Modelos y esquemas de aprendizaje
-  * Aprendiendo de más fuentes
+  * Aprendizaje supervisado.
+  * Modelos y esquemas de aprendizaje.
+  * Aprendiendo de más fuentes.
 
 * Aprendizaje multitarea.
-  * Aplicaciones
-  * Esquema de aprendizaje
-  * Arquitecturas
-  * Problemas abiertos
+  * Aplicaciones.
+  * Esquema de aprendizaje.
+  * Arquitecturas.
+  * Problemas abiertos.
 
 
 ## Configuración del ambiente
