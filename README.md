@@ -1,16 +1,18 @@
-# Una introducción al aprendizaje multitarea en redes neuronales
+# Una introducción al aprendizaje profundo multitarea
 
 Este repositorio contiene los materiales del taller presentado en la [RIIAA 2019](https://riiaa.org).
 
-* Aprendizaje monotarea.
+* Aprendizaje profundo.
   * Aprendizaje supervisado.
-  * Modelos y esquemas de aprendizaje.
-  * Aprendiendo de más fuentes.
+  * Esquemas de aprendizaje y modelos.
+  * Perceptrón multicapa.
+  * Redes convolucionales.
+  
 
 * Aprendizaje multitarea.
+  * Aprendiendo de más fuentes.
   * Aplicaciones.
-  * Esquema de aprendizaje.
-  * Arquitecturas.
+  * Esquemas de aprendizaje y modelos.
   * Problemas abiertos.
 
 
@@ -22,7 +24,7 @@ Los ejemplos del taller se pueden seguir usando:
 
 ### Google Colab
 
-Google Colab es un servicio gratuito que permite ejecutar libretas de Jupyter que se encuentren almacenadas en una cuenta de Google Drive. Usarlo para este taller es sencillo. Habiendo entrado previamente a tu cuenta de Drive, abre al libreta `1_monotarea.ipynb` dentro del directorio `notebooks` y presiona sobre el icono: 
+Google Colab es un servicio gratuito que permite ejecutar libretas de Jupyter que se encuentren almacenadas en una cuenta de Google Drive. Usarlo para este taller es sencillo. Habiendo entrado previamente a tu cuenta de Drive, abre al libreta `1_mlp.ipynb` dentro del directorio `notebooks` y presiona sobre el icono: 
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
